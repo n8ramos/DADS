@@ -1,5 +1,5 @@
 # DADS
-Drone Autonomous Docking System
+Drone Autonomous Docking System (Winner of the 2024 UNLV CPE Senior Design Competition)
 
 This repo contains my code for the drone docking algorithm. It does not contain the complete code necessary to run the entire project.
 
